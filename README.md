@@ -1,8 +1,8 @@
 # Data_management_R
 
 #### Contents of this project
-* data management: data formatting, merge dataframes, data classification, etc.
-* data exploration: numerical summary, ggplot2, spaghetti plot, correlation plot, box plot, ect.
+* data management: data formatting, merge dataframes, data classification, etc. (dplyr, tidyr)
+* data exploration: numerical summary, spaghetti plot, correlation plot, box plot, ect. (ggplot2, GGally)
 * statistical analysis: ANOVA, linear regression, ect.
 
 
