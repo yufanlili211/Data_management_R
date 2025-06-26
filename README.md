@@ -6,6 +6,7 @@
 * statistical analysis: ANOVA, linear regression, ect.
 
 
-Disclaimer
+
+#### Disclaimer
 This repository contains materials based on coursework in my master's program
 (Pharmaceutical Modelling Master Program, Uppsala University), used solely for educational and non-commercial purposes.
